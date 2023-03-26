@@ -17,7 +17,7 @@ module.exports = {
     description: `a developer blog`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      linkedin: `wuy10`,
+      linkedIn: `wuy10`,
     },
   },
   plugins: [

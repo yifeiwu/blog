@@ -19,7 +19,7 @@ const Bio = () => {
             summary
           }
           social {
-            linkedin
+            linkedIn
           }
         }
       }
