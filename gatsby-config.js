@@ -12,7 +12,7 @@ module.exports = {
     title: `Yi Fei's Blog`,
     author: {
       name: `Yi Fei Wu`,
-      summary: `who lives and works in Melbourne building teams for software development.`,
+      summary: `who lives and works in Melbourne building software development teams.`,
     },
     description: `a developer blog`,
     siteUrl: `https://yifeiwu.gatsbyjs.io/`,
