@@ -15,7 +15,7 @@ module.exports = {
       summary: `who lives and works in Melbourne building teams for software development.`,
     },
     description: `a developer blog`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://yifeiwu.gatsbyjs.io/`,
     social: {
       linkedIn: `wuy10`,
     },
