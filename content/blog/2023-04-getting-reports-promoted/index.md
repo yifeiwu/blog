@@ -1,6 +1,6 @@
 ---
 title: Getting Your Reports Promoted
-date: '2023-04-01'
+date: '2023-04-02'
 ---
 
 *Note this has been published on [LeadDev.com](https://leaddev.com/team/getting-your-reports-promoted)*
