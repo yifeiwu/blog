@@ -1,6 +1,6 @@
 ---
 title: Lead Developer - Year One
-date: '2023-01-01'
+date: '2023-03-01'
 ---
 
 After spending a few years as a senior software developer at Zendesk, I became burnt out due to the covid lockdowns. I quit my job and tried my hand at a few startups and scaleups before finding an opening at REA for a lead developer role. After around 6 months here’s a couple of my thoughts and learnings around the ordeal in no particular order. I’ll probably try to flesh some of these out into their own posts later on.
