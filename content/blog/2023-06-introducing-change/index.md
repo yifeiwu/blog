@@ -38,13 +38,13 @@ We had a retrospective and decided that this complexity could be better dealt wi
 To sum it up, if you’re looking to introduce a new tech initiative, here are a number of things to consider. 
 
 * Timing and opportunity
-  *If things are working well, it’s hard to argue for change – don’t fix what ain’t broke. 
-  *Identify when it makes sense to introduce the change and clearly share the vision and benefits to gain support. 
+  * If things are working well, it’s hard to argue for change – don’t fix what ain’t broke. 
+  * Identify when it makes sense to introduce the change and clearly share the vision and benefits to gain support. 
 * Start simple and small
-  *Begin with a manageable implementation to demonstrate feasibility and benefits.
-  *Address uncertainties by creating a proof of concept and setting standards for future implementation.
+  * Begin with a manageable implementation to demonstrate feasibility and benefits.
+  * Address uncertainties by creating a proof of concept and setting standards for future implementation.
 * Upskilling your team
-  *Conduct collaborative sessions, such as swarm programming, to familiarize the team with the new technique.
+  * Conduct collaborative sessions, such as swarm programming, to familiarize the team with the new technique.
   * Encourage questions and discussions to foster understanding and adoption.
 * Iterate
   * What works for one team or project may not always work. Get feedback by asking questions through retrospectives to see what needs clarifying or improvment. 
