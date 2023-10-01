@@ -31,7 +31,10 @@ const Seo = ({ description, title, children }) => {
   return (
     <>
       <title>{defaultTitle ? `${title} | ${defaultTitle}` : title}</title>
-      <meta name="google-site-verification" content="GywDw0sFHBm_1Luy1xxNMKxRtehtAzkRqlBhetXWWKg" />
+      <meta
+        name="google-site-verification"
+        content="GywDw0sFHBm_1Luy1xxNMKxRtehtAzkRqlBhetXWWKg"
+      />
       <meta name="description" content={metaDescription} />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={metaDescription} />
