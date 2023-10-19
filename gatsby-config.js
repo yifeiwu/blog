@@ -15,7 +15,7 @@ module.exports = {
       summary: `who lives and works in Melbourne building software development teams.`,
     },
     description: `a developer blog`,
-    siteUrl: `https://yifeiwu.gatsbyjs.io/`,
+    siteUrl: `https://yifeiwu.netlify.app/`,
     social: {
       linkedIn: `wuy10`,
     },
