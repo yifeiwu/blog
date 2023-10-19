@@ -3,6 +3,7 @@ title: Introducing Change to Teams
 date: '2023-06-30'
 ---
 
+*An edited version of this post is available on on https://leaddev.com/process/introducing-new-processes-your-team*
 
 One of the benefits of working in different teams is having the opportunity to learn different skills and practices. As people change teams, this gives opportunities to spread knowledge. Some might imagine it being a heroic pilgrimage where the enlightened and wise sage from another team brings their wealth of knowledge to a new team summoning forth a new age of productivity. But rarely are the transitions so smooth. Most people value stability and are hesitant to change. I recently introduced the use of feature flagging to my team and I’d like to use my journey to illustrate the key points in successfully introducing change. 
 
