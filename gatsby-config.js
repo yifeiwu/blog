@@ -12,10 +12,10 @@ module.exports = {
     title: `Yi Fei's Blog`,
     author: {
       name: `Yi Fei Wu`,
-      summary: `who lives and works in Melbourne building software development teams.`,
+      summary: `who lives in Melbourne building software development teams.`,
     },
     description: `a developer blog`,
-    siteUrl: `https://yifeiwu.netlify.app/`,
+    siteUrl: `https://yifeiwu.vercel.app/`,
     social: {
       linkedIn: `wuy10`,
     },
