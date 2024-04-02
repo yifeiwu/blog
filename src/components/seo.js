@@ -33,7 +33,7 @@ const Seo = ({ description, title, children }) => {
       <title>{defaultTitle ? `${title} | ${defaultTitle}` : title}</title>
       <meta
         name="google-site-verification"
-        content="mD-4D0v4Qj6qRFjCZ7D2G9Mpdvokkv1ig85pYhiNBts"
+        content="9i8guQbcNxuh2qqwvV4eGCAworXyrws4DzUJmAIgtVg"
       />
       <meta name="description" content={metaDescription} />
       <meta property="og:title" content={title} />

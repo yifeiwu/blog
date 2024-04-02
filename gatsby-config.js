@@ -15,7 +15,7 @@ module.exports = {
       summary: `who lives in Melbourne building software development teams.`,
     },
     description: `a developer blog`,
-    siteUrl: `https://yifeiwu.vercel.app/`,
+    siteUrl: `https://yifeiwu.netlify.app/`,
     social: {
       linkedIn: `wuy10`,
     },

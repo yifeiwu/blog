@@ -3,7 +3,7 @@ title: About Me
 date: "2019-01-25"
 ---
 
-Hi, my name is Yi Fei. I currently live in Melbourne, Australia working as a leader of software engineering teams.
+Hi, I'm Yi Fei. I currently live in Melbourne, Australia. My day job is leading software engineering teams.
 
 In a previous life, I was a biomedical engineer investigating computer guided
 liver [surgery](https://doi.org/10.1117/12.2044250), and a puréer of fruit [flies](http://dx.doi.org/10.1016/j.ympev.2010.11.022).
