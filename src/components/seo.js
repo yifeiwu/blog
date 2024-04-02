@@ -35,6 +35,7 @@ const Seo = ({ description, title, children }) => {
         name="google-site-verification"
         content="9i8guQbcNxuh2qqwvV4eGCAworXyrws4DzUJmAIgtVg"
       />
+      <meta name="msvalidate.01" content="D38A1D072C396A6587E1C65AFEC44222" />
       <meta name="description" content={metaDescription} />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={metaDescription} />
